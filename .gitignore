@@ -22,3 +22,8 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+.idea/
+opentracing-go-nethttp-demo
+opentracing-go-nethttp-demo.iml
+vendor/
